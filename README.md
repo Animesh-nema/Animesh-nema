@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Hi, I'm Animesh Nema 👋
 
-I'm a Full Stack Developer with a Master's in Computer Science from the University of Illinois at Chicago, currently enhancing the digital landscape at the College of Engineering, UIC. I specialize in creating efficient, innovative solutions that drive business success, leveraging modern web technologies and agile methodologies.
+As a Full Stack Developer with over 3 years of experience and a Master's in Computer Science from the University of Illinois at Chicago, I am currently applying my skills as a Full Stack-Graduate Assistant at the College of Engineering, UIC. My journey in the tech industry is marked by a passion for developing efficient, innovative solutions that propel businesses forward. Utilizing modern web technologies and agile methodologies, I'm dedicated to enhancing the digital landscape through my work, always seeking to merge creativity with technical proficiency to drive success.
 
 ## 🎓 Education
 - **Master of Science in Computer Science** - University of Illinois at Chicago (Aug 2023 - May 2025)
@@ -9,13 +9,9 @@ I'm a Full Stack Developer with a Master's in Computer Science from the Universi
 
 ## 💼 Experience
 - **Full Stack Developer**, College of Engineering, University of Illinois at Chicago (Oct 2023 - Present)
-  - Pioneered the development of a PhD evaluation application using Node.js and Nuxt.js.
 - **Software Engineer**, RedBaton, Bengaluru, India (Jan 2023 - June 2023)
-  - Crafted an advanced dynamic filtering system with React Js and RxJS.
 - **Software Engineer**, Kuvera, Bengaluru, India (Feb 2022 - Jan 2023)
-  - Developed investment plan calculators reducing development time by 60%.
 - **Software Engineer**, HashedIn by Deloitte, Bengaluru, India (July 2021 - Feb 2022)
-  - Led the development of a dynamic analytical dashboard with Presto and Hadoop.
 
 ## 🛠 Skills
 - **Programming Languages:** Python, Java, JavaScript, TypeScript, C, C++, Ruby, Node.js, CSS (SASS/SCSS)
@@ -23,13 +19,9 @@ I'm a Full Stack Developer with a Master's in Computer Science from the Universi
 - **Data Management & Visualization:** Oracle, MySQL, Presto, MongoDB
 - **Cloud & Software:** AWS, Google Cloud Platform, VSCode, Figma
 
-## 🚀 Projects
-- **PhD Evaluation Application** - A Node.js and Nuxt.js application optimizing PhD students' progress assessments.
-- **Dynamic Filtering System** - A React.js and RxJS project for streamlined navigation and improved user experience.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/animesh-nema-b746b6152/) or drop me an email at anema4@uic.edu.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/animesh-nema) or drop me an email at anema4@uic.edu.
-
-![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
+![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-nema&layout=compact)
 
 
 <!--
