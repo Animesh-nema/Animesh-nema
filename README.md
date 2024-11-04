@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi, I'm Animesh Nema 👋
 
 As a Full Stack Developer with over 3 years of experience and a Master's in Computer Science from the University of Illinois at Chicago, I am currently applying my skills as a Full Stack-Graduate Assistant at the College of Engineering, UIC. My journey in the tech industry is marked by a passion for developing efficient, innovative solutions that propel businesses forward. Utilizing modern web technologies and agile methodologies, I'm dedicated to enhancing the digital landscape through my work, always seeking to merge creativity with technical proficiency to drive success.
